@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @khawajajee
+- 👀 I’m interested in learning programming for a better outcome ...
+- 🌱 I’m currently learning Object Oriented Programming on JAVA ...
+- 📫 Reach me via mail at mrkhawaja2001@gmail.com ...
+
+<!---
+khawajajee/khawajajee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
